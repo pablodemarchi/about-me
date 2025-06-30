@@ -32,8 +32,8 @@ Aporto soluciones claras, integrables y orientadas al crecimiento del producto y
 
 Estoy abierto a colaboraciones freelance o proyectos puntuales.
 
-- ✉️ **Email**: [demarchipablo@outlook.com]
-- 💼 **LinkedIn**: [[https://linkedin.com/in/pablodemarchi](https://www.linkedin.com/in/pablo-demarchi/)]
+- ✉️ **Email**: demarchipablo@outlook.com
+- 💼 **LinkedIn**: [https://linkedin.com/in/pablodemarchi](https://www.linkedin.com/in/pablo-demarchi/)
 
 ---
 
