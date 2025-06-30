@@ -1,4 +1,4 @@
-# Pablo Demarchi – DevOps Freelance Engineer
+# Pablo Demarchi – DevOps Engineer
 
 🚀 Trabajo junto a equipos técnicos para definir, automatizar y mantener entornos en la nube, con foco en AWS y buenas prácticas DevOps.
 Aporto soluciones claras, integrables y orientadas al crecimiento del producto y del equipo.
