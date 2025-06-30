@@ -12,7 +12,7 @@ Aporto soluciones claras, integrables y orientadas al crecimiento del producto y
 - Servicios clave: EC2, ECS, RDS, Load Balancers, VPCs, IAM, CloudWatch
 
 ### 🔹 Migración de servicios a AWS
-- Migración desde entornos on-premise, Heroku u otras nubes
+- Migración desde entornos on-premise u otras nubes
 - Análisis, ejecución y soporte post-migración
 
 ### 🔹 Creación y automatización de entornos
