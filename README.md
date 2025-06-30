@@ -44,6 +44,3 @@ Estoy abierto a colaboraciones freelance o proyectos puntuales.
 - Alto estándar técnico y compromiso
 
 ---
-
-> _"Infraestructura bien diseñada no se nota. Simplemente funciona."_  
-> — Pablo
