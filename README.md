@@ -5,7 +5,7 @@ Aporto soluciones claras, integrables y orientadas al crecimiento del producto y
 
 ---
 
-## ✅ Servicios que ofrezco
+## ✅ Áreas de especialización
 
 ### 🔹 Diseño y mantenimiento de infraestructura en AWS
 - Arquitecturas seguras, escalables y eficientes
